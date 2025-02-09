@@ -2,9 +2,9 @@
 
 inserire questo su ox_inventory/data/items.lua
 
-['cartadicredito'] = {
+`['cartadicredito'] = {
     label = 'Carta di Credito ',
-},
+},`
 
 # DIPENDENZE
 
